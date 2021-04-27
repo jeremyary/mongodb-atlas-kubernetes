@@ -1,7 +1,7 @@
 domain: mongodb.com
 layout: go.kubebuilder.io/v3
 projectName: mongodb-atlas-kubernetes
-repo: github.com/jeremyary/mongodb-atlas-kubernetes
+repo: github.com/mongodb/mongodb-atlas-kubernetes
 resources:
 - crdVersion: v1
   group: atlas
